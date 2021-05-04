@@ -100,6 +100,7 @@ For Higher Level in Computing Science activities, the aforementioned notebooks f
 *These notebooks are available in the Tutorials folder*
 
 The ‘if’ and ‘for’ statement notebook has been expanded for Higher level with exercises looking at prime numbers, determining if a number is prime through division, as well as making simple algorithms more effective by reducing the number of steps in a calculation. 
+
  ![image](https://user-images.githubusercontent.com/62135461/117042157-86065080-ad03-11eb-8c60-e62dd0d599b7.png)
 
 
