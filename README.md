@@ -105,6 +105,7 @@ The ‘if’ and ‘for’ statement notebook has been expanded for Higher level
 
 
 The statistics notebook is designed for the Higher National Level qualification by providing some initial exercises in statistics. The notebook describes how computers can manage large quantities of data in order to calculate the outcomes of throwing a six-faced die. 
+
  ![image](https://user-images.githubusercontent.com/62135461/117042138-81da3300-ad03-11eb-8cc8-5153d1658fd0.png)
 
 ## Advanced Higher Computer Science Qualification
@@ -117,6 +118,7 @@ Learning Outcomes for Higher include:
 These skills build from National Higher Level and require a learner to develop further skills in computational thinking, including abstraction, algorithms, decomposition, pattern recognition and generalisation. This level also requires the learner to demonstrate advanced skills in computer programming as well as communicate how a programme works.  Learners should also be able to build their knowledge of data types and structures, including arrays of records, 2-D arrays, arrays of objects, attribute types (varchar, etc) and do data analysis with planning in terms of scheduling and Gantt charts. Algorithmic specification is expanded at this level to include binary search, insertion sort and bubble sort, as well as how encryption is used to secure the transmission of data. 
 
 A notebook has been developed which builds upon the ‘if’ and ‘for’ statement notebook that was introduced at National 3 level. At Advanced Higher level this notebook introduces functions to make a programme more efficient as well as an activity to check whether a number can be written as the sum of three prime numbers. 
+
  ![image](https://user-images.githubusercontent.com/62135461/117043119-b995aa80-ad04-11eb-881c-45eacee6cd0c.png)
 
 Materials have been developed to provide further understanding of exercises developed across previous levels, including a notebook for encryption and decryption exercises as well as more advanced exercises in the notebook for statistics. This also has some crossover with the course specification for Mathematics at Advanced Higher level, which requires using Gaussian elimination. The course specification for Statistics at National Level 6 includes normal distribution and requires a learner to understand histograms and randomness. The statistics notebook also provides some activities suitable at Higher Advanced Level, building from Gaussian (normal distribution) to some combinatronics exercises, as well as an exploration of estimating pi. The statistics notebooks ends with the application of calculating the Birthday Paradox (23 randomly chosen people have a 50% chance of two randomly chosen people to have the same birthday). 
