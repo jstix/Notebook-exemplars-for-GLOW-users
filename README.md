@@ -85,6 +85,7 @@ At level 5, a learner should be able to describe and exemplify the use of binary
 ## Higher Computer Science Qualification
 
 Learning Outcomes for Higher include: 
+
   *A learner should be able to describe different fundamental information processes and how they communicate and can identify their use in solving different problems.    
   A learner should be able to develop an understanding of information and use a model to describe particular aspects of a system.  
   A learner should also be able to describe the structure and operation of computing systems which have multiple components interacting with each other, and select appropriate development tools to design, build, evaluate and refine computing solutions based on requirements.* 
