@@ -1,23 +1,29 @@
-# Notebook-exemplars-for-GLOW-users
+## Notebook-exemplars-for-GLOW-users
 
-This repository is for coding activities developed in Jupyter notebooks for Scottish teachers and learners. These materials were developed between February and May 2021 and cover topics from the SQA curriculum in Computing Science, Mathematics, Statistics and other fields involving data analysis. This content aims to provide support and learning materials for teachers to adopt and use the Noteable service across school in Scotland, to deliver the Computing Science qualification at National Levels 3, 4, 5, Higher and Advanced Higher.
+This repository is for coding activities developed in Jupyter notebooks using the Noteable platform (www.noteable.edina.ac.uk) for Scottish teachers and learners. These materials were developed between February and May 2021 and cover topics from the SQA curriculum in Computing Science, Mathematics, Statistics and other fields involving data analysis. This content aims to provide support and learning materials for teachers to adopt and use the Noteable service across school in Scotland, to deliver curriculum topics involving the analysis of numbers, data or other types of information and programming elements at Scottish Qualifications Authority National Levels 3, 4, 5, Higher and Advanced Higher.
 
-This content aims to provide support and learning materials for teachers to adopt and use the Noteable service across school in Scotland, to deliver the Computing Science qualification at National Levels 3, 4, 5, Higher and Advanced Higher.
+This content aims to provide support and learning materials for teachers to adopt and use the Noteable service across schools in Scotland.
 
-National 3 Computer Science Qualification
+This a breakdown of available materials in this repository:
 
-Learning Outcomes for this level include: 
-A learner should be able to explore computational thinking processes and identify patterns in objects or information. 
-A learner should be able to develop a sequence of instructions and run this sequence using programmable devices. 
+# National 3 Notebooks
+
+Learning Outcomes for National 3 level Computing Science include: 
+
+  A learner should be able to explore computational thinking processes and identify patterns in objects or information. 
+  A learner should be able to develop a sequence of instructions and run this sequence using programmable devices. 
 The course specification includes core skills to complete for the unit at Information and Communication Technology at SCQF level 3. It is expected that learners will develop broad, generic skills through this unit. The main skills areas identified in the specification are Numeracy: Information handling, Employability, enterprise and citizenship and applying thinking skills. 
-An introductory notebook has been developed to understand the print function and working with variables with assigned values inside the notebook, following the PRIMM method for teaching programming, PRIMM stands for Predict, Run, Investigate, Modify and Make and is based on research into the learning of programming but combines different areas. This introductory notebook also provides an overview of the four main data types on Python – int, float, string and bool. Finally, it distinguishes between = and == on Python.   
 
-The introductory notebook for Nat3 level has now been updated and divided into two notebooks. The first notebook, as shown above, covers the most basic programming elements, starting with printing statements, progressing to some arithmetic operations (addition, multiplication and division, raising a number to a power or compare values and output proofs such as print(3>5) with output ‘False’. The ‘Part 2’ introductory notebook also follows the PRIMM approach and covers Variable Types, including exercises to explore how variables can have various types. This notebook also explores the four main data types in Python, strings, Booleans, floats and integers. 
+An introductory notebook has been developed to understand the print function and working with variables with assigned values inside the notebook, following the PRIMM method for teaching programming, PRIMM stands for Predict, Run, Investigate, Modify and Make and is based on research into the learning of programming but combines different areas [https://blogs.kcl.ac.uk/cser/2017/09/01/primm-a-structured-approach-to-teaching-programming/]. This introductory notebook also provides an overview of the four main data types on Python – int, float, string and bool. The notebook then distinguishes between = and == on Python for learners.   
+
+![image](https://user-images.githubusercontent.com/62135461/117030943-08891300-acf8-11eb-9720-8466e3d3965b.png)
 
 
+The first notebook, as shown above, covers some basic programming elements, starting with printing statements, progressing to some arithmetic operations (addition, multiplication and division, raising a number to a power or comparing values and output proofs such as print(3>5) with output ‘False’. The ‘Part 2’ introductory notebook also follows the PRIMM approach and covers Variable Types, including exercises to explore how variables can have various types. This notebook also explores the four main data types in Python, strings, Booleans, floats and integers. 
 
-  A notebook which follows this 2-part introduction progresses from the end of the introduction as the student should be more familiar with printing conditional statements, sentences and numbers and in this notebook will become more familiar with the while instructions and arrays as a way of storing data (curriculum topic). A simple game has been developed in this notebook, applicable to National 3 level where a student is tasked with understanding that the game runs through a word that the user inputs and asks for a following word to begin with the last letter of the first word, and so on. If the user does this correctly they can progress in the game, otherwise it’s ‘Game over, try again!’. 
-  
+
+  A notebook which follows this 2-part introduction progresses from the end of the introduction as the student should be more familiar with printing conditional statements, sentences and numbers and in this notebook will become more familiar with the while instructions and arrays as a way of storing data (curriculum topic). A simple game has been developed in this notebook, applicable to National 3 level, where a student is tasked with understanding that the game runs through a word that the user inputs and asks for a following word to begin with the last letter of the first word, and so on. If the user does this correctly they can progress in the game. 
+  ![image](https://user-images.githubusercontent.com/62135461/117031127-31a9a380-acf8-11eb-95d2-855912ca2e4a.png)
 
 There is a separate introductory notebook for the ‘if’ and ‘for’ statements on Python, which covers using this statement to determine if a number is odd or even, progressing to using the elif statement for some further conditions, such as checking whether a number has one, two or three digits. The for statement is explored through an activity which lists a print text decided by the user 10 times, across a range from 1 to 10 for ‘i’. The last exercise in the notebook explores making loops with classmates to list some of their traits and preferences, such as ‘What is Johnny’s favourite game’ and setting the reply to ‘Football’. This could be extended to interactive classroom activities. 
  
