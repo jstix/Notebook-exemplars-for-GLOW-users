@@ -10,8 +10,8 @@ This a breakdown of available materials in this repository:
 
 Learning Outcomes for National 3 level Computing Science include: 
 
-  A learner should be able to explore computational thinking processes and identify patterns in objects or information. 
-  A learner should be able to develop a sequence of instructions and run this sequence using programmable devices. 
+  *A learner should be able to explore computational thinking processes and identify patterns in objects or information. 
+  A learner should be able to develop a sequence of instructions and run this sequence using programmable devices.* 
   
 The course specification includes core skills to complete for the unit at Information and Communication Technology at SCQF level 3. It is expected that learners will develop broad, generic skills through this unit. The main skills areas identified in the specification are Numeracy: Information handling, Employability, enterprise and citizenship and applying thinking skills. 
 
@@ -38,8 +38,8 @@ A notebook including more complex visualisations and functions may potentially b
 ## National 4 Computer Science Qualification (found in National 4 folder)
 
 Learning Outcomes for Level 4 include: 
-  A learner should be able to organise information in a logical way.  
-  A learner should be able to understand the instructions of a visual programming language and predict the outcome of a programme written using that language. A student should also develop an understanding of how computers process information and build simple programmes to carry out a simple task. 
+  *A learner should be able to organise information in a logical way.  
+  A learner should be able to understand the instructions of a visual programming language and predict the outcome of a programme written using that language. A student should also develop an understanding of how computers process information and build simple programmes to carry out a simple task.* 
   
 The course specification includes core skills to complete for the unit at Information and Communication Technology at SCQF level 4 and is a progression from the National 3 set of notebooks and the relevant experiences and outcomes. It is expected that learners will develop an understanding of how computing science is vital to everyday life – socially, technologically and economically, through this unit. The main skills areas identified in the specification are aspects of computational thinking across a range of contemporary contexts, developing knowledge and understanding of key facts and ideas in computing science, applying skills and knowledge in analysis, design, implementation and testing to a range of digital solutions, communicate computing concepts clearly and concisely using appropriate terminology and develop an understanding of the impact of computing science in changing and influencing our environment and society. Skills are expected in Numeracy: number process and information handling. 
 
@@ -56,9 +56,9 @@ Another notebook has been developed, appropriate for National Level 4, focussing
 ## National 5 Computer Science Qualification
 
 Learning Outcomes for Level 5 include: 
-  A learner should be able to understand the operation of a process and its outcome. They should be able to structure related items of information.   
+  *A learner should be able to understand the operation of a process and its outcome. They should be able to structure related items of information.   
   A learner should be able to explain core programming language concepts using appropriate technical language, as well as understand how information is stored and how key components in computing connect and interact through networks. 
-  A learner should also be able to create, develop and evaluate computing solutions in response to a design challenge. 
+  A learner should also be able to create, develop and evaluate computing solutions in response to a design challenge.* 
 
 The course specification includes core skills to complete at SCQF level 5 and is a progression from the National 4 notebooks and the relevant experiences and outcomes. The main skills areas identified in the specification are aspects of computational thinking across a range of contemporary contexts, developing knowledge and understanding of key facts and ideas in computing science, applying skills and knowledge in analysis, design, implementation and testing to a range of digital solutions, communicating computing concepts and explaining computational behaviour clearly and concisely using appropriate terminology. 
 
@@ -82,9 +82,9 @@ At level 5, a learner should be able to describe and exemplify the use of binary
 ## Higher Computer Science Qualification
 
 Learning Outcomes for Higher include: 
-  A learner should be able to describe different fundamental information processes and how they communicate and can identify their use in solving different problems.    
+  *A learner should be able to describe different fundamental information processes and how they communicate and can identify their use in solving different problems.    
   A learner should be able to develop an understanding of information and use a model to describe particular aspects of a system.  
-  A learner should also be able to describe the structure and operation of computing systems which have multiple components interacting with each other, and select appropriate development tools to design, build, evaluate and refine computing solutions based on requirements. 
+  A learner should also be able to describe the structure and operation of computing systems which have multiple components interacting with each other, and select appropriate development tools to design, build, evaluate and refine computing solutions based on requirements.* 
 
 These skills build from National 5 and require a learner to develop further skills in security risks and describing how encryption is used to secure the transmission of data using public and private keys and exemplify the design of a solution to a query, such as sort order, grouping, and calculations. 
 
@@ -105,8 +105,8 @@ The statistics notebook is designed for the Higher National Level qualification 
 ## Advanced Higher Computer Science Qualification
 
 Learning Outcomes for Higher include: 
-  A learner should be able to describe in detail the processes used in real-world solutions, informally compare algorithms for correctness and efficiency, as well as understand constructs and data structures in a textual programming language.  
-  A learner should be able to distinguish the relationship between high level languages and the operation of a computer and select appropriate development tools to design, build, evaluate and refine computing solutions to process and present information whilst making reasoned arguments to justify decisions. 
+  *A learner should be able to describe in detail the processes used in real-world solutions, informally compare algorithms for correctness and efficiency, as well as understand constructs and data structures in a textual programming language.  
+  A learner should be able to distinguish the relationship between high level languages and the operation of a computer and select appropriate development tools to design, build, evaluate and refine computing solutions to process and present information whilst making reasoned arguments to justify decisions.* 
 
 These skills build from National Higher Level and require a learner to develop further skills in computational thinking, including abstraction, algorithms, decomposition, pattern recognition and generalisation. This level also requires the learner to demonstrate advanced skills in computer programming as well as communicate how a programme works.  Learners should also be able to build their knowledge of data types and structures, including arrays of records, 2-D arrays, arrays of objects, attribute types (varchar, etc) and do data analysis with planning in terms of scheduling and Gantt charts. Algorithmic specification is expanded at this level to include binary search, insertion sort and bubble sort, as well as how encryption is used to secure the transmission of data. 
 
