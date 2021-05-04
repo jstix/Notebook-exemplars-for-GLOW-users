@@ -10,6 +10,7 @@ This a breakdown of available materials in this repository:
 
 Learning Outcomes for National 3 level Computing Science include: 
 
+
   *A learner should be able to explore computational thinking processes and identify patterns in objects or information. 
   A learner should be able to develop a sequence of instructions and run this sequence using programmable devices.* 
   
@@ -38,6 +39,7 @@ A notebook including more complex visualisations and functions may potentially b
 ## National 4 Computer Science Qualification (found in National 4 folder)
 
 Learning Outcomes for Level 4 include: 
+
   *A learner should be able to organise information in a logical way.  
   A learner should be able to understand the instructions of a visual programming language and predict the outcome of a programme written using that language. A student should also develop an understanding of how computers process information and build simple programmes to carry out a simple task.* 
   
@@ -56,6 +58,7 @@ Another notebook has been developed, appropriate for National Level 4, focussing
 ## National 5 Computer Science Qualification
 
 Learning Outcomes for Level 5 include: 
+
   *A learner should be able to understand the operation of a process and its outcome. They should be able to structure related items of information.   
   A learner should be able to explain core programming language concepts using appropriate technical language, as well as understand how information is stored and how key components in computing connect and interact through networks. 
   A learner should also be able to create, develop and evaluate computing solutions in response to a design challenge.* 
@@ -105,6 +108,7 @@ The statistics notebook is designed for the Higher National Level qualification 
 ## Advanced Higher Computer Science Qualification
 
 Learning Outcomes for Higher include: 
+
   *A learner should be able to describe in detail the processes used in real-world solutions, informally compare algorithms for correctness and efficiency, as well as understand constructs and data structures in a textual programming language.  
   A learner should be able to distinguish the relationship between high level languages and the operation of a computer and select appropriate development tools to design, build, evaluate and refine computing solutions to process and present information whilst making reasoned arguments to justify decisions.* 
 
