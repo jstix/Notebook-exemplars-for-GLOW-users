@@ -124,7 +124,9 @@ A notebook has been developed which builds upon the ‘if’ and ‘for’ state
 Materials have been developed to provide further understanding of exercises developed across previous levels, including a notebook for encryption and decryption exercises as well as more advanced exercises in the notebook for statistics. This also has some crossover with the course specification for Mathematics at Advanced Higher level, which requires using Gaussian elimination. The course specification for Statistics at National Level 6 includes normal distribution and requires a learner to understand histograms and randomness. The statistics notebook also provides some activities suitable at Higher Advanced Level, building from Gaussian (normal distribution) to some combinatronics exercises, as well as an exploration of estimating pi. The statistics notebooks ends with the application of calculating the Birthday Paradox (23 randomly chosen people have a 50% chance of two randomly chosen people to have the same birthday). 
 
 The encryption and decryption notebook aims to familiarise the learner with ways of sending a hidden message or code, and deciphering it.
+
 ![image](https://user-images.githubusercontent.com/62135461/117043300-f19ced80-ad04-11eb-973b-4ec1a23a3170.png)
+
 ![image](https://user-images.githubusercontent.com/62135461/117043305-f5307480-ad04-11eb-9e9b-34653c00e679.png)
 
 
