@@ -25,9 +25,11 @@ The first notebook, as shown above, covers some basic programming elements, star
 
 
   A notebook which follows this 2-part introduction progresses from the end of the introduction as the student should be more familiar with printing conditional statements, sentences and numbers and in this notebook will become more familiar with the while instructions and arrays as a way of storing data (curriculum topic). A simple game has been developed in this notebook, applicable to National 3 level, where a student is tasked with understanding that the game runs through a word that the user inputs and asks for a following word to begin with the last letter of the first word, and so on. If the user does this correctly they can progress in the game. 
+  
   ![image](https://user-images.githubusercontent.com/62135461/117031127-31a9a380-acf8-11eb-95d2-855912ca2e4a.png)
 
 There is a separate introductory notebook for the ‘if’ and ‘for’ statements on Python, which covers using this statement to determine if a number is odd or even, progressing to using the elif statement for some further conditions, such as checking whether a number has one, two or three digits. The for statement is explored through an activity which lists a print text decided by the user 10 times, across a range from 1 to 10 for ‘i’. The last exercise in the notebook explores making loops with classmates to list some of their traits and preferences, such as ‘What is Johnny’s favourite game?’ and setting the reply to ‘Football’. This could be extended to interactive classroom activities. 
+
  ![image](https://user-images.githubusercontent.com/62135461/117040118-7259ea80-ad01-11eb-8187-6e63cfee160e.png)
 
 A following notebook provides an overview of the array data structure used across programming languages. This notebook explores elements in an array, calculating their sum using code on Noteable, as well as listing an index of numbers. This notebook activity aims to satisfy the numeracy element of the unit specification, as well as applying thinking skills. 
@@ -50,6 +52,7 @@ The learner will be able to explain how simple programs work, drawing on underst
 An introductory notebook has been developed to understand data types such as strings, as well as developing and utilising string functions and methods for replacing part of the strings, both manually and making use of the replace function. The split function is also used. Finally, this notebook explores Unicode characters, printing some emojis. This notebook offers a natural progression from Level 3 and aims to add a suitable level of complexity to what is expected from the learner at Level 4.
  
 A follow-up notebook has been developed which both includes and builds upon the materials in the ‘if’ and ‘for’ statement notebook developed for Nat 3 level. This notebook expands on the elif exercises from Nat 3. 
+
 ![image](https://user-images.githubusercontent.com/62135461/117040563-edbb9c00-ad01-11eb-86aa-68962013caeb.png)
 
 Another notebook has been developed, appropriate for National Level 4, focussing on how strings can be formed with any character or arrangement of characters. This notebook elaborates on strings.
@@ -77,9 +80,11 @@ The following topics are addressed at this level:
 A notebook has been developed which includes and expands upon the ‘if’ and ‘for’ for statements covered in the National 3 and National 4 notebooks. This notebook builds on previous materials by adding sums and determining conditions for calculations, such as calculating the sum of all numbers in a set divisible by either 3 or 5. 
  
 Materials have been developed to provide further understanding of operations and how they connect in computing science. A notebook has been developed for Boolean operators, recognising conditions to satisfy programming conditions and visualise operators with an image analysis. This notebook describes how images can be edited using Boolean operators. 
+
 ![image](https://user-images.githubusercontent.com/62135461/117041772-1abc7e80-ad03-11eb-8da0-c936af9e6bff.png)
 
 At level 5, a learner should be able to describe and exemplify the use of binary to represent positive integers, as well as describe floating point representation of positive real numbers and describe extended ASCII code (8-bit) used to represent characters. A notebook has been developed to provide activities on binary systems, covering distinctions between data and information, binary representations of data and an additional, optional section for this level on converting to hexadecimal units. This notebook can be found in the Tutorials folder. 
+
  ![image](https://user-images.githubusercontent.com/62135461/117041837-2a3bc780-ad03-11eb-84de-c02caa37df5d.png)
 
 ## Higher Computer Science Qualification
