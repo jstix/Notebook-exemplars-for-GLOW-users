@@ -1,6 +1,3 @@
-git remote add origin https://github.com/edina/Notebook-exemplars-forGLOW-users.git
-git branch -M main
-git push -u origin main
 
 # Notebook Exemplars for GLOW Users
 
