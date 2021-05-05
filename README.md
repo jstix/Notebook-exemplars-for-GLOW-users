@@ -4,6 +4,13 @@ This repository is for coding activities developed in Jupyter notebooks using th
 
 This content aims to provide support and learning materials for teachers to adopt and use the Noteable service across schools in Scotland.
 
+### References
+
+These exemplars were informed by a number of resources, including: 
+ - The PRIMM approach for teaching and learning programming - https://blogs.kcl.ac.uk/cser/2017/09/01/primm-a-structured-approach-to-teaching-programming/
+ - Geeks for Geeks, a computing science portal for well-written examples of code, documentation and related materials: https://www.geeksforgeeks.org/
+ - Scottish Qualification Authority curricula - https://www.sqa.org.uk/sqa/48486.html 
+
 This a breakdown of available materials in this repository:
 
 ## National 3 Notebooks (found in National 3 folder)
