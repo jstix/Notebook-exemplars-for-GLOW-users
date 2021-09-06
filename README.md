@@ -1,7 +1,7 @@
 
 # Notebook Exemplars for GLOW Users
 
-This repository is for coding activities developed in Jupyter notebooks using the Noteable platform (www.noteable.edina.ac.uk) for Scottish teachers and learners. These materials were developed between February and May 2021 and cover topics from the SQA curriculum in Computing Science, Mathematics, Statistics and other fields involving data analysis. The content in these notebooks aims to provide support and learning materials for teachers to adopt and use the Noteable service across school in Scotland, to deliver curriculum topics involving the analysis of numbers, data or other types of information and programming elements at Scottish Qualifications Authority National Levels 3, 4, 5, Higher and Advanced Higher.
+This repository is for coding activities developed in Jupyter notebooks using the Noteable platform (www.noteable.edina.ac.uk) for Scottish teachers and learners. These materials were developed during the first half of 2021 and cover topics from the SQA curriculum in Computing Science, Mathematics, Statistics and other fields involving data analysis. The content in these notebooks aims to provide support and learning materials for teachers to adopt and use the Noteable service across school in Scotland, to deliver curriculum topics involving the analysis of numbers, data or other types of information and programming elements at Scottish Qualifications Authority National Levels 3, 4, 5, Higher and Advanced Higher.
 
 This content aims to provide support and learning materials for teachers to adopt and use the Noteable service across schools in Scotland.
 
